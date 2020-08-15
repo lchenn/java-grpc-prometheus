@@ -2,9 +2,12 @@
 
 This is a forked and mavenized version of https://github.com/grpc-ecosystem/java-grpc-prometheus.
 
-As of now 08/14/2020, the original repo is under maintained.
+As of now 08/14/2020, the original repo isn't properly maintained.
 
 
+[![Build Status](https://travis-ci.org/lchenn/java-grpc-prometheus.svg?branch=master)](https://travis-ci.org/lchenn/java-grpc-prometheus)
+
+## Original readme.
 Java interceptors which can be used to monitor Grpc services using Prometheus.
 
 ## Features
